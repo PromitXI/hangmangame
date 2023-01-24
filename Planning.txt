@@ -1,2 +1,4 @@
 Planning For the Hangman Game:
 Glossary=[The list of Words which will serve as the game word Base]
+The Program will Pick a random Word from, the List 
+
